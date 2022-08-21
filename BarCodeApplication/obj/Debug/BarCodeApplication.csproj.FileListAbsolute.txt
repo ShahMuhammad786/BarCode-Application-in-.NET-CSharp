@@ -1,0 +1,12 @@
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\bin\Debug\BarCodeApplication.exe.config
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\bin\Debug\BarCodeApplication.exe
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\bin\Debug\BarCodeApplication.pdb
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.csprojAssemblyReference.cache
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.ProduntSelling.resources
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.Properties.Resources.resources
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.csproj.GenerateResource.cache
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.exe
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.pdb
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\obj\Debug\BarCodeApplication.csproj.CopyComplete
+C:\Users\Shah Muhammad\source\repos\BarCodeApplication\BarCodeApplication\bin\Debug\BarCodeWizFontsNet.dll
